@@ -8,3 +8,5 @@
 6. Chipmunk
 7. Deer
 8. Squirrel
+9. Rat
+10. Giraffe
